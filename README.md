@@ -1,4 +1,4 @@
-# dreamcomesstudy
+# 예인님 어플
 
 A new Flutter project.
 
